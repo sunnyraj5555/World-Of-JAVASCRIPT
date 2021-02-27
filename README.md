@@ -33,4 +33,16 @@
     var _MyName = 'Sunny Raj';
 ```    
 - You cant use a number as the first character ```var 1MyName = 'Sunny Raj';``` 
-
+- The rest variable name can include any letters, any number, or the underscore. 
+```
+    var _1My__Name = 'Sunny Raj';
+```
+- Cant use any other character, including spaces 
+```
+    var _MyName% = 'Sunny Raj';
+    var  My Name= 'Sunny Raj';
+    ( Not Correct Declaration)
+```
+- Variable name are case sensitive:  ``` myname ``` AND ```MyName``` are NOT same.
+- No Limit to the length of variable name.
+- You can't use Javascript reserved words as a variable name. 
