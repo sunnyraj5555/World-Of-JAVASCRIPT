@@ -7,3 +7,11 @@
 ```OR ```
 
 - Javascript adds behaviour to a web page 
+
+## console.log()
+- To print hellow world using console
+```
+    console.log('Hello World');
+```
+
+#SECTION 1: VALUES AND VARIABLES 
