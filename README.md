@@ -25,3 +25,12 @@
 - ```'Sunny Raj'``` is the value.
 - Variables are containers for storing information. Creating a variable in JavaScript is called "declaring" a variable: ```var MyName```; 
 
+#### RULES FRO GIVING VARIABLE NAME
+- The first character must be a letter or an underscore```_``` or Dollar```$```. 
+```
+    var MyName = 'Sunny Raj';
+    var $MyName = 'Sunny Raj';
+    var _MyName = 'Sunny Raj';
+```    
+- You cant use a number as the first character ```var 1MyName = 'Sunny Raj';``` 
+
