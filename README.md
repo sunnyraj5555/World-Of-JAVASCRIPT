@@ -14,4 +14,14 @@
     console.log('Hello World');
 ```
 
-#SECTION 1: VALUES AND VARIABLES 
+# SECTION 1: VALUES AND VARIABLES 
+- Lets take a example:
+```
+    var MyName = 'Sunny Raj'
+``` 
+- From the above exapmle: 
+- ```var``` is a statement which declares a variable in javaScript.
+- ```MyName``` is a variavle name.
+- ```'Sunny Raj'``` is the value.
+- Variables are containers for storing information. Creating a variable in JavaScript is called "declaring" a variable: ```var MyName```; 
+
