@@ -46,3 +46,20 @@
 - Variable name are case sensitive:  ``` myname ``` AND ```MyName``` are NOT same.
 - No Limit to the length of variable name.
 - You can't use Javascript reserved words as a variable name. 
+
+#### DATA TYPE (PRIMITIVE)
+- Undefined:  ```var IamStandby;```
+- Boolean:  ```var IamRaj = true;```
+- Number:  ```var MyAge = 20;```
+- String:  ```var MyName = 'Sunny Raj;'```
+- Bigint:
+- Symbol:
+
+## typeof()
+- To find the datatype of the variable.
+```
+    console.log(typeof(MyName));
+```
+```
+    OUTPUT: string
+```
