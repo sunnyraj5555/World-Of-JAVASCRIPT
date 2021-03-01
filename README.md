@@ -52,7 +52,7 @@
 - Boolean:  ```var IamRaj = true;```
 - Number:  ```var MyAge = 20;```
 - String:  ```var MyName = 'Sunny Raj;'```
-- Bigint:
+- Bigint: ?
 - Symbol:
 
 ## typeof()
