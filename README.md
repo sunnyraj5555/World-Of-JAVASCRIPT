@@ -63,3 +63,16 @@
 ```
     OUTPUT: string
 ```
+
+Q1. What is difference between ```null``` and ```undefined``` ?
+- ```var IamUseless = null;``` : variable Defined and given value null.
+- ```var IamStandBy;``` : No value Given
+
+Q2. What is NaN ?
+- NaN stands for **Not a Number**.
+- If We subtract two string we get NaN: ```console.log("Sunny" - "Raj");```
+```
+     OUTPUT: NaN
+```
+- NaN is a property of the global object.
+- In other words, it is a variable in global scope.
