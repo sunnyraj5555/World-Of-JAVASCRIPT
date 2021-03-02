@@ -69,10 +69,22 @@ Q1. What is difference between ```null``` and ```undefined``` ?
 - ```var IamStandBy;``` : No value Given
 
 Q2. What is NaN ?
-- NaN stands for **Not a Number**.
-- If We subtract two string we get NaN: ```console.log("Sunny" - "Raj");```
+- NaN stands for **Not-A-Number**.
+- If We subtract two string we get NaN: 
+```
+     console.log("Sunny" - "Raj");
+```
 ```
      OUTPUT: NaN
 ```
 - NaN is a property of the global object.
 - In other words, it is a variable in global scope.
+
+## isNaN()
+- This return true if the 
+```
+var MyPhoneNumber = 987654321;
+var MyName = "Sunny Raj";
+console.log(isNaN(MyPhoneNumber));   OUTPUT:false
+console.log(isNaN(MyName));          OUTPUT:true
+```
