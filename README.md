@@ -25,7 +25,7 @@
 - ```'Sunny Raj'``` is the value.
 - Variables are containers for storing information. Creating a variable in JavaScript is called "declaring" a variable: ```var MyName```; 
 
-#### RULES FRO GIVING VARIABLE NAME
+### RULES FRO GIVING VARIABLE NAME
 - The first character must be a letter or an underscore```_``` or Dollar```$```. 
 ```
     var MyName = 'Sunny Raj';
@@ -47,7 +47,7 @@
 - No Limit to the length of variable name.
 - You can't use Javascript reserved words as a variable name. 
 
-#### DATA TYPE (PRIMITIVE)
+# SECTION 2: DATA TYPE (PRIMITIVE)
 - Undefined:  ```var IamStandby;```
 - Boolean:  ```var IamRaj = true;```
 - Number:  ```var MyAge = 20;```
@@ -89,7 +89,7 @@ console.log(isNaN(MyPhoneNumber));   OUTPUT:false
 console.log(isNaN(MyName));          OUTPUT:true
 ```
 
-#### EXPRESSION AND OPERATOR
+# SECTION 3: EXPRESSION AND OPERATOR
 ```
     Expression -> (Operand + Operator)
     Expression -> (4 + 67)
@@ -105,7 +105,7 @@ console.log(isNaN(MyName));          OUTPUT:true
     6. Increament & Decrement Operator
 ```
 
-#### ASSIGNMENT OPERATOR
+### ASSIGNMENT OPERATOR
 - An assignment operator assigns a value to its left operand. Based on the value of its right operand.
 - The simple assignment operator is equal ```(=)```.
 ```var x =5;
