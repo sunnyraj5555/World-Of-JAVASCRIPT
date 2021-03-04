@@ -94,7 +94,7 @@ console.log(isNaN(MyName));          OUTPUT:true
     Expression -> (Operand + Operator)
     Expression -> (4 + 67)
 ```
-- Where 4,67 are operand and (+) is operator.
+- Where ```4,67``` are operand and ```(+)``` is operator.
 - There are following type of Operators:
 ```
     1. Assignment Operator
