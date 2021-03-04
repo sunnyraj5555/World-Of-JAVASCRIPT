@@ -150,4 +150,34 @@ console.log(isNaN(MyName));          OUTPUT:true
     var a = 30;
     var b = 10;
     console.log(a<=b); // false
-```  
+```
+
+### LOGICAL OPERATOR
+
+#### Logical AND (&&) 
+- It is also known as ```Logical Conjuction```.
+- Is true if and only if  all of its operands are true
+```
+var a = 30;
+var b = -20;
+console.log(a > b && b > -56 && b < 0);
+```
+#### Logical OR (||) 
+- It is also known as ```Logical Disjunction```.
+- Is true if and only if one or more of its operands are true
+```
+var a = 30;
+var b = -20;
+console.log(a > b || b > 0 || a < 0);
+```
+#### Logical NOT (!) 
+- It is also known as ```Logical complement, Negation```.
+- Takes truth to falsity and vice versa.
+```
+var a = 30;
+var b = -20;
+console.log(!(a>0 || b<0));
+console.log(!true);
+console.log(!false);
+```
+
