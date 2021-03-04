@@ -90,3 +90,19 @@ console.log(isNaN(MyName));          OUTPUT:true
 ```
 
 #### EXPRESSION AND OPERATOR
+```
+    Expression -> (Operand + Operator)
+    Expression -> (4 + 67)
+```
+- Where 4,67 are operand and (+) is operator.
+- There are following type of Operators:
+```
+    1. Assignment Operator
+    2. Comparision Operator
+    3. Logical Operator
+    4. String Operator
+    5. Conditional (ternary) Operator
+    6. Increament & Decrement Operator
+```
+
+
