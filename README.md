@@ -105,4 +105,10 @@ console.log(isNaN(MyName));          OUTPUT:true
     6. Increament & Decrement Operator
 ```
 
+#### ASSIGNMENT OPERATOR
+- An assignment operator assigns a value to its left operand. Based on the value of its right operand.
+- The simple assignment operator is equal ```(=)```.
+```var x =5;
+   var y =5;
+```
 
