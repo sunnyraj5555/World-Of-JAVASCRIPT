@@ -108,7 +108,46 @@ console.log(isNaN(MyName));          OUTPUT:true
 ### ASSIGNMENT OPERATOR
 - An assignment operator assigns a value to its left operand. Based on the value of its right operand.
 - The simple assignment operator is equal ```(=)```.
-```var x =5;
-   var y =5;
+```
+    var x =5;
+    var y =5;
 ```
 
+### COMPARISON OPERATOR
+
+####  Equal (==)
+```
+    var a = 30;
+    var b = 10;
+    console.log(a==b); // false
+```    
+#### Not equal (!=)
+```
+    var a = 30;
+    var b = 10;
+    console.log(a!=b); // true
+```  
+#### Graeter than (>)
+```
+    var a = 30;
+    var b = 10;
+    console.log(a>b);  // true
+```  
+#### Graeater than and equal to (>=)
+```
+    var a = 30;
+    var b = 10;
+    console.log(a>=b); // true
+```  
+#### less than (<)
+```
+    var a = 30;
+    var b = 10;
+    console.log(a<b);  // false
+```  
+#### Less tahn equal to (<=)
+```
+    var a = 30;
+    var b = 10;
+    console.log(a<=b); // false
+```  
