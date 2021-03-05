@@ -181,3 +181,7 @@ console.log(!true);
 console.log(!false);
 ```
 
+### STRING OPERATOR
+### CONDITIONAL (TERNARY) OPERATOR
+### INCREMENT & DECREMENT OPERATOR
+
