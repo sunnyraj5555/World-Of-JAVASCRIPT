@@ -185,3 +185,13 @@ console.log(!false);
 ### CONDITIONAL (TERNARY) OPERATOR
 ### INCREMENT & DECREMENT OPERATOR
 
+# SECTION 4: CONTROL STATEMENT & LOOPS
+### if....else
+```
+            var age = 18;
+            if(age >= 18){
+                console.log("Vote");
+            } else {
+                console.log("Cant Vote");
+            }
+```       
