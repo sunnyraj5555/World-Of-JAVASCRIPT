@@ -194,4 +194,10 @@ console.log(!false);
             } else {
                 console.log("Cant Vote");
             }
-```       
+```  
+### CONDITIONAL (TERNARY) OPERATOR ``` ( ) ? :```
+```
+        var age = 17;
+        console.log((age >18) ? "VOTE" : " Cant VOTE");
+```
+
