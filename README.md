@@ -182,11 +182,27 @@ console.log(!false);
 ```
 
 ### STRING OPERATOR
-### CONDITIONAL (TERNARY) OPERATOR
+### CONDITIONAL (TERNARY) OPERATOR ``` ( ) ? :```
+```
+        var age = 17;
+        console.log((age >18) ? "VOTE" : " Cant VOTE");
+```
+### STRING CONCATINATION OPERATOR
+- The concatination operator ```(+)``` concatenates two string values together.
+returning another string that is union of the two optand strings.
+```
+        console.log('Hello World');          // Hello World
+        console.log('Hello'+'World');        // HelloWorld
+        console.log('Hello '+'World');       // Hello World   ---> Giving space inside the quotes
+        console.log('Hello'      + 'World'); // HelloWorld    ---> Giving space outside the quotes 
+
+        var MyName = 'Sunny';
+        console.log(MyName + 'Raj');        // SunnyRaj
+```
 ### INCREMENT & DECREMENT OPERATOR
 
 # SECTION 4: CONTROL STATEMENT & LOOPS
-### if....else
+### IF...ELSE
 ```
             var age = 18;
             if(age >= 18){
@@ -195,9 +211,6 @@ console.log(!false);
                 console.log("Cant Vote");
             }
 ```  
-### CONDITIONAL (TERNARY) OPERATOR ``` ( ) ? :```
-```
-        var age = 17;
-        console.log((age >18) ? "VOTE" : " Cant VOTE");
-```
 
+### NESTED IF...ELSE
+### SWITCH STATEMENT
