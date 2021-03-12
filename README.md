@@ -214,3 +214,18 @@ returning another string that is union of the two optand strings.
 
 ### NESTED IF...ELSE
 ### SWITCH STATEMENT
+```
+var area = "circle"
+var PI = 3.142, l=5, b=4, r=3;
+if(area = "circle"){
+    console.log("the area of the circle is:" + PI*r**2);
+} else if(area = "triangle"){
+    console.log("the area of the triangle is:" + (l+b)/2);
+} else if(area = "rectangle"){  
+     console.log("the area of the rectangle is:" + (l*b));
+} else{  
+    console.log("Please enter a valid shape");
+}    
+```    
+
+
