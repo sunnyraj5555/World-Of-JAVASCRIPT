@@ -206,6 +206,20 @@ returning another string that is union of the two optand strings.
         console.log(num);
         console.log(newnum);
 ```
+### EXPONENTIAL OPERATOR
+- The Operator ```(**)``` is To the power operator.
+- Below are some example:
+```
+(5**6) ---> 5*5*5*5*5*5
+```
+- EXPLAINATION: Now ```5**6``` is spell as ```5 to the power 6``` (i.e 5*5*5*5*5*5).
+```
+console.log(2**3);      OUTPUT:8
+console.log(3**3);      OUTPUT:27
+```
+- EXPLAINATION: Now ```2**3```(i.e 2*2*2) will give output as ```8``` & For ```3**3```(i.e 3*3*3) the output will be ```27```.
+Q1. What will be the output of ```(2** -1)```?
+- 
 # SECTION 4: CONTROL STATEMENT & LOOPS
 ### IF...ELSE
 ```
