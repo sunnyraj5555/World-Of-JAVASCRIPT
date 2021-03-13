@@ -200,7 +200,12 @@ returning another string that is union of the two optand strings.
         console.log(MyName + 'Raj');        // SunnyRaj
 ```
 ### INCREMENT & DECREMENT OPERATOR
-
+```
+        var num = 5;
+        var newnum = num++ + 5;
+        console.log(num);
+        console.log(newnum);
+```
 # SECTION 4: CONTROL STATEMENT & LOOPS
 ### IF...ELSE
 ```
