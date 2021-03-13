@@ -40,11 +40,10 @@
 - Cant use any other character, including spaces 
 ```
     var _MyName% = 'Sunny Raj';
-    var  My Name= 'Sunny Raj';
-    ( Not Correct Declaration)
+    var  My Name= 'Sunny Raj';  ---> WRONG VARIABLE NAME
 ```
 - Variable name are case sensitive:  ``` myname ``` AND ```MyName``` are NOT same.
-- No Limit to the length of variable name.
+- No Limit to the length of variable name ( That dont mean you use a long variable name, it should be meaningfull).
 - You can't use Javascript reserved words as a variable name. 
 
 # SECTION 2: DATA TYPE (PRIMITIVE)
