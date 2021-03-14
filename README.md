@@ -157,27 +157,27 @@ console.log(isNaN(MyName));          OUTPUT:true
 - It is also known as ```Logical Conjuction```.
 - Is true if and only if  all of its operands are true
 ```
-var a = 30;
-var b = -20;
-console.log(a > b && b > -56 && b < 0);
+        var a = 30;
+        var b = -20;
+        console.log(a > b && b > -56 && b < 0);
 ```
 #### Logical OR (||) 
 - It is also known as ```Logical Disjunction```.
 - Is true if and only if one or more of its operands are true
 ```
-var a = 30;
-var b = -20;
-console.log(a > b || b > 0 || a < 0);
+        var a = 30;
+        var b = -20;
+        console.log(a > b || b > 0 || a < 0);
 ```
 #### Logical NOT (!) 
 - It is also known as ```Logical complement, Negation```.
 - Takes truth to falsity and vice versa.
 ```
-var a = 30;
-var b = -20;
-console.log(!(a>0 || b<0));
-console.log(!true);
-console.log(!false);
+        var a = 30;
+        var b = -20;
+        console.log(!(a>0 || b<0));
+        console.log(!true);
+        console.log(!false);
 ```
 
 ### STRING OPERATOR
@@ -231,6 +231,7 @@ Q1. What will be the output of ```(2** -1)```?
 ```  
 
 ### NESTED IF...ELSE
+
 ### SWITCH STATEMENT
 ```
 var area = "circle"
