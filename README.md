@@ -229,10 +229,7 @@ Q1. What will be the output of ```(2** -1)```?
                 console.log("Cant Vote");
             }
 ```  
-
 ### NESTED IF...ELSE
-
-### SWITCH STATEMENT
 ```
 var area = "circle"
 var PI = 3.142, l=5, b=4, r=3;
@@ -245,6 +242,8 @@ if(area = "circle"){
 } else{  
     console.log("Please enter a valid shape");
 }    
-```    
+```  
+### SWITCH STATEMENT
+
 
 
