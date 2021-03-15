@@ -244,7 +244,8 @@ if(area = "circle"){
 }    
 ```  
 ### SWITCH STATEMENT
-```Switch(area)
+```
+Switch(area)
 {
 case 'circle':
     console.log("the area of the circle is:" + PI*r**2);
