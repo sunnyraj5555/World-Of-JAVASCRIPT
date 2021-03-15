@@ -244,6 +244,20 @@ if(area = "circle"){
 }    
 ```  
 ### SWITCH STATEMENT
-
+```Switch(area)
+{
+case 'circle':
+    console.log("the area of the circle is:" + PI*r**2);
+    break;
+case 'triangle':
+    console.log("the area of the triangle is:" + (l+b)/2);
+    break;
+case 'rectangle':
+    console.log("the area of the rectangle is:" + (l*b));
+    break;
+default:
+    console.log("Please enter a valid shape");
+}
+```
 
 
