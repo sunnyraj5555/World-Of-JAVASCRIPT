@@ -260,5 +260,21 @@ default:
     console.log("Please enter a valid shape");
 }
 ```
-
+### WHILE LOOP 
+```
+var num=0;
+while(num<=10)
+{
+    console.log(num);
+    num++;
+}
+```
+### DO-WHILE LOOP
+```
+var num=0;
+do{
+    console.log(num);
+    num++;
+}while(num<=10);
+```
 
