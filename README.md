@@ -284,3 +284,12 @@ for(var num = 0; num<=10; num++)
     console.log(num);
 }
 ```
+
+# SECTION 5: FUNCTION
+```
+function <NAME> ()
+{
+// Statement
+}
+```
+
