@@ -291,5 +291,12 @@ function <NAME> ()
 {
 // Statement
 }
+---------EXAMPLE---------
+function Sum(){
+var a=10, b=20;
+var total = a+b;
+console.log(totle);
+}
+Sum(); // Function Calling 
 ```
 
