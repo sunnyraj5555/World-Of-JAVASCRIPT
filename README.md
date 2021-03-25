@@ -299,4 +299,15 @@ console.log(totle);
 }
 Sum(); // Function Calling 
 ```
+Q. Why do we use Function?
+- Reusability of code 
+- Define code once and use many times.
 
+Q. What is difference between ```Function Parameter``` and ```Function Argument``` ?
+```
+function Sum(a,b){  ---> a,b are Parameters 
+var total = a+b;
+console.log(totle);
+}
+Sum(20,30);         ---> 20,30 are Arguments 
+```
