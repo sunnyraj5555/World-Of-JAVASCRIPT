@@ -180,7 +180,7 @@ console.log(isNaN(MyName));          OUTPUT:true
         console.log(!false);
 ```
 
-### STRING OPERATOR
+### STRING OPERATOR & CONCATINATION
 ### CONDITIONAL (TERNARY) OPERATOR ``` ( ) ? :```
 ```
         var age = 17;
