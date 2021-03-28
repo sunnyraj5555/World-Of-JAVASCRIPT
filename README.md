@@ -311,3 +311,12 @@ console.log(totle);
 }
 Sum(20,30);         ---> 20,30 are Arguments 
 ```
+
+#### FUNCTION EXPRESSION & RETURN KEYWORD
+```
+function Sum(a,b){ 
+return total = a+b;
+}
+ver funExp = Sum(15,20);
+console.log(funExp);
+```
